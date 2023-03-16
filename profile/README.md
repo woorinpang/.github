@@ -48,18 +48,18 @@
 | Monitoring | - Spring Cloud Sleuth </br> - Zipkin |
 
 ## 시스템 아키텍처
-![img_1.png](img_1.png)
 
-## 프로젝트 브랜치 전략
+## 브랜치 전략
 - main
   - hot-fix
 - develop
   - feature
   - refactor
 
-- 테스트는 통합테스트(Integration), 단위테스트(Mock), 레포지토리테스트(DataJpaTest)로 나우어 진행한다.
-  - controller : 통합테스트, 모든 bean을 올리고 운영환경과 가장 유사하게 테스트를 한다.
-  - service : 단위테스트, 진행하고자 하는 테스트에만 집중하여 테스트한다.
-  - repository : 레포지토리테스트, 관련된 Bean들만 등록하여 통합테스트 보다 빠르게 테스트를 진행한다.
+## 테스트 전략
+테스트는 통합테스트(Integration), 단위테스트(Mock), 레포지토리테스트(DataJpaTest)로 나우어 진행한다.
+- controller : 통합테스트, 모든 bean을 올리고 운영환경과 가장 유사하게 테스트를 한다.
+- service : 단위테스트, 진행하고자 하는 테스트에만 집중하여 테스트한다.
+- repository : 레포지토리테스트, 관련된 Bean들만 등록하여 통합테스트 보다 빠르게 테스트를 진행한다.
   
   
