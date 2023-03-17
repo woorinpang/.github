@@ -1,4 +1,4 @@
-## Hi there 👋
+## [키트 주문 제작소] 👋
 
 <!--
 
@@ -27,12 +27,18 @@
 | [CONFIG-SERVER](https://github.com/heechul90/project-jeeok/tree/main/config-server) | 각 서버의 application.yml을 관리하는 서버 |
 -->
 
-## 서비스
+## Config
 | 서버 | 설명 |
+
+
+## Service
+| 서비스 | 설명 |
 | --- | --- |
-| [USER-SERVICE]() | 사용자 |
-| [STORE-SERVICE]() | 상점 |
-| [ORDER-SERVICE]() | 주문 |
+| [USER-SERVICE]() | 사용자 서비스 |
+| [STORE-SERVICE]() | 스토어 서비스 |
+| [ORDER-SERVICE]() | 주문 서비스 |
+| [DELIVERY-SERVICE]() | 알림 서비스 |
+| [NOTIFICATION-SERVICE]() | 알림 서비스 | 
 
 
 ## 사용 기술스텍
