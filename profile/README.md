@@ -29,6 +29,7 @@
 
 ## Config
 | 서버 | 설명 |
+| --- | --- |
 | [CONFIG-SERVER]() | 설정 |
 | [DISCOVERY-SERVER]() | 유레카 서버 |
 | [APIGATEWAY]() | api 게이트웨이 |
