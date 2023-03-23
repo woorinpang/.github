@@ -30,20 +30,30 @@
 ## Config
 | 서버 | 설명 |
 | --- | --- |
-| [CONFIG-SERVER]() | 설정 |
-| [DISCOVERY-SERVER]() | 유레카 서버 |
-| [APIGATEWAY]() | api 게이트웨이 |
+| [CONFIG-SERVER](https://github.com/woorinpang/config-server) | 설정 |
+| [DISCOVERY-SERVER](https://github.com/woorinpang/discovery-server) | 유레카 서버 |
+| [APIGATEWAY](https://github.com/woorinpang/apigateway) | api 게이트웨이 |
+
+## Repo
+| 저장소 | 설명 |
+| --- | --- |
+| [CONFIG-DEV-REPO](https://github.com/woorinpang/config-repo) | application.yml 저장소 |
+| [MESSAGE-REPO](https://github.com/woorinpang/messages-repo) | message.properties 저장소 |
 
 
 ## Service
 | 서비스 | 설명 |
 | --- | --- |
-| [USER-SERVICE]() | 사용자 서비스 |
-| [STORE-SERVICE]() | 스토어 서비스 |
-| [ORDER-SERVICE]() | 주문 서비스 |
+| [USER-SERVICE](https://github.com/woorinpang/user-service) | 사용자 서비스 |
+| [STORE-SERVICE](https://github.com/woorinpang/store-service) | 스토어 서비스 |
+| [ORDER-SERVICE](https://github.com/woorinpang/order-service) | 주문 서비스 |
 | [DELIVERY-SERVICE]() | 알림 서비스 |
 | [NOTIFICATION-SERVICE]() | 알림 서비스 | 
 
+## Rest Api Docs
+| 서비스 | 설명 |
+| --- | --- |
+|  |  |
 
 ## 사용 기술스텍
 | 기술스택 | 개발환경 |
