@@ -50,6 +50,7 @@
 | [ORDER-SERVICE](https://github.com/woorinpang/order-service) | 주문 서비스 |
 | [DELIVERY-SERVICE]() | 알림 서비스 |
 | [NOTIFICATION-SERVICE]() | 알림 서비스 | 
+| [SETTLEMENT-SERVICE]() | 알림 서비스 | 
 
 ## Rest Api Docs
 | 서비스 | 설명 |
