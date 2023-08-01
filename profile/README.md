@@ -48,7 +48,7 @@
 | [USER-SERVICE](https://github.com/woorinpang/user-service) | 사용자 서비스 |
 | [STORE-SERVICE](https://github.com/woorinpang/store-service) | 스토어 서비스 |
 | [ORDER-SERVICE](https://github.com/woorinpang/order-service) | 주문 서비스 |
-| [DELIVERY-SERVICE]() | 알림 서비스 |
+| [DELIVERY-SERVICE]() | 배달 서비스 |
 | [NOTIFICATION-SERVICE]() | 알림 서비스 | 
 | [SETTLEMENT-SERVICE]() | 정산 서비스 | 
 
