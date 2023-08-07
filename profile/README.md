@@ -69,6 +69,7 @@
 | Message Queue | - Kafka |
 | Monitoring | - Spring Cloud Sleuth </br> - Zipkin |
 
+
 ## 시스템 아키텍처
 
 ## 브랜치 전략
