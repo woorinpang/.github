@@ -50,7 +50,7 @@
 | [ORDER-SERVICE](https://github.com/woorinpang/order-service) | 주문 서비스 |
 | [DELIVERY-SERVICE]() | 배달 서비스 |
 | [NOTIFICATION-SERVICE]() | 알림 서비스 | 
-| [SETTLEMENT-SERVICE]() | 정산 서비스 | 
+| [SETTLEMENT-SERVICE](https://github.com/woorinpang/settlement-service) | 정산 서비스 | 
 
 ## Rest Api Docs
 | 서비스 | 설명 |
@@ -74,7 +74,7 @@
 
 ## 브랜치 전략
 - main
-  - hot-fix
+  - hotfix
 - develop
   - feature
   - refactor
