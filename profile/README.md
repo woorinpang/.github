@@ -74,6 +74,7 @@
 
 ## 브랜치 전략
 - main
+- release
   - hotfix
 - develop
   - feature
