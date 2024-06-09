@@ -60,11 +60,11 @@
 ## 사용 기술스텍
 | 기술스택 | 개발환경 |
 | --- | --- |
-| Spring | - String Boot 3.0.x </br> - Java 17 </br> - Gradle </br> - Spring Web Mvc </br> - Spring Security |
+| Spring | - String Boot 3.2.x </br> - Java 21 </br> - Gradle </br> - Spring Web Mvc </br> - Spring Security |
 | Spring Cloud | - Eureka </br> - Gateway </br> - Config </br> - OpenFeign |
 | Authenticate | - JWT (Json Web Token) |
 | ORM | - JPA </br> - Querydsl |
-| Database | - MariaDB </br> - Redis |
+| Database | - Mysql </br> - Redis |
 | Test | - Spring RestDocs </br> - JUnit5 </br> - Mock |
 | Message Queue | - Kafka |
 | Monitoring | - Spring Cloud Sleuth </br> - Zipkin |
