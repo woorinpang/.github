@@ -39,18 +39,15 @@
 | 저장소 | 설명 |
 | --- | --- |
 | [CONFIG-DEV-REPO](https://github.com/woorinpang/config-repo) | application.yml 저장소 |
-| [MESSAGE-REPO](https://github.com/woorinpang/messages-repo) | message.properties 저장소 |
+
 
 
 ## Service
 | 서비스 | 설명 |
 | --- | --- |
 | [USER-SERVICE](https://github.com/woorinpang/user-service) | 사용자 서비스 |
-| [STORE-SERVICE](https://github.com/woorinpang/store-service) | 스토어 서비스 |
-| [ORDER-SERVICE](https://github.com/woorinpang/order-service) | 주문 서비스 |
-| [DELIVERY-SERVICE]() | 배달 서비스 |
-| [NOTIFICATION-SERVICE]() | 알림 서비스 | 
-| [SETTLEMENT-SERVICE](https://github.com/woorinpang/settlement-service) | 정산 서비스 | 
+| [ASSET-SERVICE](https://github.com/woorinpang/asset-service) | 자산 서비스 |
+| [NOTIFICATION-SERVICE](https://github.com/woorinpang/notification-service) | 알림 서비스 |
 
 ## Rest Api Docs
 | 서비스 | 설명 |
